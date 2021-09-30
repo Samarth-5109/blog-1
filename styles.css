@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&display=swap');
+body{
+    text-align: center;
+    background-color: #6D9886;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: aliceblue;
+}
+
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 50%;
+}
+
+.caption{
+    font-size: small;
+}
+
+p{
+    font-size: large;
+}
